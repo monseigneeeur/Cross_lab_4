@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>practiseWork</id>
+    <version>1.0.0</version>
+    <title>ITauyrslii</title>
+    <authors>practiseWork</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0">
+        <dependency id="UtilLibrary" version="1.0.0" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\KNU\CROSS\Lab_4\practiseWork\bin\Debug\net6.0\practiseWork.runtimeconfig.json" target="lib\net6.0\practiseWork.runtimeconfig.json" />
+    <file src="D:\KNU\CROSS\Lab_4\practiseWork\bin\Debug\net6.0\practiseWork.dll" target="lib\net6.0\practiseWork.dll" />
+  </files>
+</package>
